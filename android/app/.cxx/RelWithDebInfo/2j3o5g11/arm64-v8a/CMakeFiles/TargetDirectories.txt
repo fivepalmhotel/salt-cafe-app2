@@ -1,0 +1,2 @@
+C:/Users/Flyweis Dev/StudioProjects/office/whtasapp_file/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/RelWithDebInfo/2j3o5g11/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Flyweis Dev/StudioProjects/office/whtasapp_file/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/RelWithDebInfo/2j3o5g11/arm64-v8a/CMakeFiles/rebuild_cache.dir

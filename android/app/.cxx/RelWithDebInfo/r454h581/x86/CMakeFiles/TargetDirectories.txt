@@ -1,0 +1,2 @@
+C:/Users/Flyweis Dev/StudioProjects/office/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/RelWithDebInfo/r454h581/x86/CMakeFiles/edit_cache.dir
+C:/Users/Flyweis Dev/StudioProjects/office/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/RelWithDebInfo/r454h581/x86/CMakeFiles/rebuild_cache.dir

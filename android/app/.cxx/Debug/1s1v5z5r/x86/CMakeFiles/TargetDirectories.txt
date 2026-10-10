@@ -1,0 +1,2 @@
+D:/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/Debug/1s1v5z5r/x86/CMakeFiles/edit_cache.dir
+D:/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/Debug/1s1v5z5r/x86/CMakeFiles/rebuild_cache.dir

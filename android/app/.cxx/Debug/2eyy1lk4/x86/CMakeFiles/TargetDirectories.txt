@@ -1,0 +1,2 @@
+D:/Flutter Dev Project/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/Debug/2eyy1lk4/x86/CMakeFiles/edit_cache.dir
+D:/Flutter Dev Project/Mr-Salt-Cafe-Frontend-main/android/app/.cxx/Debug/2eyy1lk4/x86/CMakeFiles/rebuild_cache.dir
