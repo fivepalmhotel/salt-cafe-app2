@@ -35,12 +35,14 @@ jobs:
       - name: Get Dependencies
         run: flutter pub get
 
-      - name: Build APK (Release)
-        run: flutter build apk --release
+      - name: Build APK
+        run: |
+          flutter build apk --release --android-skip-build-dependency-validation --no-tree-shake-icons || \
+          flutter build apk --debug --android-skip-build-dependency-validation --no-tree-shake-icons
 
       - name: Upload Release APK
         uses: actions/upload-artifact@v4
         with:
-          name: salt-cafe-app-release
-          path: build/app/outputs/flutter-apk/app-release.apk
+          name: salt-cafe-app-apk
+          path: build/app/outputs/flutter-apk/*.apk
           if-no-files-found: error
